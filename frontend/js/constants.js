@@ -1,9 +1,9 @@
 const contractAddress = "0x37A2578BE7BbC9CcA62a00CFf7c158E635E44C94"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Crypto Hounds landing page!";
+const welcome_h1 = "Welcome to the Crypto Hounds home page!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Crypto Hounds NFT Project is a decentralized, open-source project! that aims to demonstrate how to develope and launch your own NFT Collection. As are team followed step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The Crypto Hounds NFT Project is a decentralized, open-source project! that aims to demonstrate how to develope and launch your own NFT Collection. Please follow codeSTACKr's step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
